@@ -14,4 +14,4 @@ Name the Lambda function from your screenshot. Why did Chalice create this funct
 
 **Your answer:**
 
-...
+The `book-analyzer-dev` Lambda function answers the API request. Chalice created it to handle the HTTP routes, while `book-analyzer-dev-analyze_new_book` is the separate Lab 07 function that runs when a text file is uploaded to S3.

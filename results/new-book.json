@@ -1,0 +1,10 @@
+{
+  "_id": "pg345.txt",
+  "author": "Bram Stoker",
+  "bucket": "public-ethanchien",
+  "language": "English",
+  "title": "Dracula",
+  "unique_words": 9270,
+  "vocabulary_ratio": 0.0567,
+  "word_count": 163401
+}
